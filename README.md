@@ -2,7 +2,10 @@
 ## open source project1
 
 OSproject1 안에는 여러 파일들이 있습니다.
-  그 중에는 doc , src 파일이 있습니다. 
+
+  그 중에는 doc , src 파일이 있습니다.
+  
+파일은 지울 수도 있고, 더 만들 수도 있습니다.
   
 ```
 
