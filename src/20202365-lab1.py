@@ -37,4 +37,4 @@ height=int(input("키가 몇 cm인가요? "))
 weight=int(input("몸무게가 몇 kg인가요? "))
 
 bmi, message = check_bmi(height,weight)
-print("당신의 BMI(체질량지수) = %0.2f, %s" %(bmi,message))
+print("당신의 BMI(체질량지수) = %0.2f, %s" %(bmi,message)) 
